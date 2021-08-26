@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3pKJOVYJQWs+YZr5Yh+34dnhTZMcpCFAW55xWPcGHhQH6zbDsLS16Txjpu+FBWq04tigdn3YaIk+fPYfO9OhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\Certificacao-CSharp\\Certificacao-CSharp-Parte3\\Topico4.Classe Base\\Topico4.Classe Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

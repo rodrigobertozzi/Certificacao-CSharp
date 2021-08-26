@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\Topico4.Classe Base.exe
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\Topico4.Classe Base.deps.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\Topico4.Classe Base.runtimeconfig.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\Topico4.Classe Base.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\Topico4.Classe Base.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\ref\Topico4.Classe Base.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\bin\Debug\net5.0\Topico4.Classe Base.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.AssemblyInfo.cs
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\ref\Topico4.Classe Base.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico4.Classe Base\obj\Debug\net5.0\Topico4.Classe Base.genruntimeconfig.cache

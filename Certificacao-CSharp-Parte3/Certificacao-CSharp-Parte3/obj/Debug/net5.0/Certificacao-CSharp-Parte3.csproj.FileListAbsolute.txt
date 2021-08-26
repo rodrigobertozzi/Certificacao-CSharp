@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\Certificacao-CSharp-Parte3.exe
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\Certificacao-CSharp-Parte3.deps.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\Certificacao-CSharp-Parte3.runtimeconfig.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\Certificacao-CSharp-Parte3.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\Certificacao-CSharp-Parte3.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\ref\Certificacao-CSharp-Parte3.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\bin\Debug\net5.0\Certificacao-CSharp-Parte3.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.AssemblyInfo.cs
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\ref\Certificacao-CSharp-Parte3.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Certificacao-CSharp-Parte3\obj\Debug\net5.0\Certificacao-CSharp-Parte3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\Topico3.Interface Explicita.exe
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\Topico3.Interface Explicita.deps.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\Topico3.Interface Explicita.runtimeconfig.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\Topico3.Interface Explicita.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\Topico3.Interface Explicita.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\ref\Topico3.Interface Explicita.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\bin\Debug\net5.0\Topico3.Interface Explicita.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.AssemblyInfo.cs
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\ref\Topico3.Interface Explicita.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico3.Interface Explicita\obj\Debug\net5.0\Topico3.Interface Explicita.genruntimeconfig.cache

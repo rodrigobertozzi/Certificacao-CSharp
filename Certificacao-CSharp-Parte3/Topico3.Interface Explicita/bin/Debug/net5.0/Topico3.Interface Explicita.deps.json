@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Topico3.Interface Explicita/1.0.0": {
+        "runtime": {
+          "Topico3.Interface Explicita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topico3.Interface Explicita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

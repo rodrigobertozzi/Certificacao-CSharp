@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BKhLEJYDBqLBEzqbtSaafyGk8pEz8xiaK/WxCqiZ8Bo2UoN5KYWYMxGx4VDa3CcQFMNw6D+NXGl8SYp6WkESww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\Certificacao-CSharp\\Certificacao-CSharp-Parte3\\ModificadorVisibilidade\\ModificadorVisibilidade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

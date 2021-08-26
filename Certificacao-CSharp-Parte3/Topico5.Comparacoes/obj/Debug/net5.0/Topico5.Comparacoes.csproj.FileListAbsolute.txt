@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\Topico5.Comparacoes.exe
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\Topico5.Comparacoes.deps.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\Topico5.Comparacoes.runtimeconfig.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\Topico5.Comparacoes.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\Topico5.Comparacoes.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\ref\Topico5.Comparacoes.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\bin\Debug\net5.0\Topico5.Comparacoes.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.AssemblyInfo.cs
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\ref\Topico5.Comparacoes.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte3\Topico5.Comparacoes\obj\Debug\net5.0\Topico5.Comparacoes.genruntimeconfig.cache
