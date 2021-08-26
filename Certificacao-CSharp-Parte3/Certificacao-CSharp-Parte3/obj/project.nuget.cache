@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CD5vT72evpoVFqe2LMbG8VsGHjw25wBbff1ZpsnzR71Ulo8z5xVvwiLvgwYwTYsy7wSxyqmQe/xJasuscvwT9Q==",
+  "dgSpecHash": "krhwEgMYTxlu4RDA+6fyD61bArss/KqfrvHJRetTRgMDviozzc/3b1yCIL2VxXnQPfTtJebcNASyycI1CqwS3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Documents\\Certificacao-CSharp\\Certificacao-CSharp-Parte3\\Certificacao-CSharp-Parte3\\Encapsulamento.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

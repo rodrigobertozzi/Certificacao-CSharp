@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHHhxBymiC7ZaI3bFKTOd0VpMLDUTM772M9C+vjLgLX0ARtVNVpDpGrZNxSibouZRTC7S79aABZwqSzs9WwPrA==",
+  "dgSpecHash": "h0TJliff5/aTpksiYuoeVPSAsO9SlwzsHB9vSbvnuYzEJCsAaxuhjv8Q1FnZ8HOgdlVvDFjOcjloWEEzWreb+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell\\Documents\\Certificacao-CSharp\\Certificacao-CSharp-Parte3\\Topico2.Projetar interface\\Topico2.Projetar interface.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
