@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\03.ByteBank.exe
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\03.ByteBank.deps.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\03.ByteBank.runtimeconfig.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\03.ByteBank.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\03.ByteBank.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\ref\03.ByteBank.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\bin\Debug\net5.0\03.ByteBank.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.AssemblyInfo.cs
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\ref\03.ByteBank.dll
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.pdb
+C:\Users\Dell\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\03.ByteBank\obj\Debug\net5.0\03.ByteBank.genruntimeconfig.cache
