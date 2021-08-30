@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\01.2.TiposDeReferencia.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\01.2.TiposDeReferencia.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\01.2.TiposDeReferencia.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\01.2.TiposDeReferencia.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\01.2.TiposDeReferencia.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\ref\01.2.TiposDeReferencia.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\bin\Debug\net5.0\01.2.TiposDeReferencia.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\ref\01.2.TiposDeReferencia.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.2.TiposDeReferencia\obj\Debug\net5.0\01.2.TiposDeReferencia.genruntimeconfig.cache

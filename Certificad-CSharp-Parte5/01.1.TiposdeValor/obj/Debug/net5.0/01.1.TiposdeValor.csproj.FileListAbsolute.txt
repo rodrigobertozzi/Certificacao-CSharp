@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\01.1.TiposdeValor.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\01.1.TiposdeValor.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\01.1.TiposdeValor.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\01.1.TiposdeValor.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\01.1.TiposdeValor.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\ref\01.1.TiposdeValor.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\bin\Debug\net5.0\01.1.TiposdeValor.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\ref\01.1.TiposdeValor.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.1.TiposdeValor\obj\Debug\net5.0\01.1.TiposdeValor.genruntimeconfig.cache

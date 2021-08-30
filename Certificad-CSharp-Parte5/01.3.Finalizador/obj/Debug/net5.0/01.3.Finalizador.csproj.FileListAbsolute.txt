@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\01.3.Finalizador.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\01.3.Finalizador.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\01.3.Finalizador.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\01.3.Finalizador.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\01.3.Finalizador.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\ref\01.3.Finalizador.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\bin\Debug\net5.0\01.3.Finalizador.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\ref\01.3.Finalizador.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\01.3.Finalizador\obj\Debug\net5.0\01.3.Finalizador.genruntimeconfig.cache

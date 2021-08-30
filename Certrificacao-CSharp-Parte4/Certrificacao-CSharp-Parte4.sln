@@ -9,15 +9,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ByteBank", "01.ByteBank\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.compilacao-condicional", "02.compilacao-condicional", "{6B068C41-F8CC-442B-9EF0-E98B11EE9A31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ByteBank", "02.ByteBank\02.ByteBank.csproj", "{9BF4E51C-8617-443B-8ACE-B91CC02EDC91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ByteBank", "02.ByteBank\02.ByteBank.csproj", "{9BF4E51C-8617-443B-8ACE-B91CC02EDC91}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.WHILE-DO", "03.WHILE-DO", "{B5D3AD8E-A3EF-46A4-B50C-EA1E644AF168}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ByteBank", "03.ByteBank\03.ByteBank.csproj", "{776BA3B2-878D-4A04-853C-07A6D2DEFDE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ByteBank", "03.ByteBank\03.ByteBank.csproj", "{776BA3B2-878D-4A04-853C-07A6D2DEFDE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.for-foreach", "04.for-foreach", "{68FF4823-2A64-4459-89E1-C464F38CD40A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ByteBank", "04.ByteBank\04.ByteBank.csproj", "{1D2F9C87-B764-4074-96E7-9C9C7388AEED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ByteBank", "04.ByteBank\04.ByteBank.csproj", "{1D2F9C87-B764-4074-96E7-9C9C7388AEED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.try-castch", "05.try-castch", "{0EB60FE3-5250-4FDA-862E-FD4652BF2EC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.ByteBank", "05.ByteBank\05.ByteBank.csproj", "{19CA063D-98CA-432D-89E2-A34ED70C801A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{79C2BDAA-5AB0-4DC9-9C13-462AAAC9BDC0}"
+	ProjectSection(SolutionItems) = preProject
+		ByteBank.mdf = ByteBank.mdf
+		..\..\..\Downloads\certificacao-csharp-pt4-master\05\antes\05.ByteBank\DB\ByteBank.sql = ..\..\..\Downloads\certificacao-csharp-pt4-master\05\antes\05.ByteBank\DB\ByteBank.sql
+		..\..\..\Downloads\certificacao-csharp-pt4-master\05\antes\05.ByteBank\DB\p_TARIFA_TRANSFERENCIA_i.sql = ..\..\..\Downloads\certificacao-csharp-pt4-master\05\antes\05.ByteBank\DB\p_TARIFA_TRANSFERENCIA_i.sql
+		..\..\..\Downloads\certificacao-csharp-pt4-master\05\antes\05.ByteBank\DB\p_TRANSFERENCIA_BANCARIA_i.sql = ..\..\..\Downloads\certificacao-csharp-pt4-master\05\antes\05.ByteBank\DB\p_TRANSFERENCIA_BANCARIA_i.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +53,10 @@ Global
 		{1D2F9C87-B764-4074-96E7-9C9C7388AEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D2F9C87-B764-4074-96E7-9C9C7388AEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D2F9C87-B764-4074-96E7-9C9C7388AEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CA063D-98CA-432D-89E2-A34ED70C801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA063D-98CA-432D-89E2-A34ED70C801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA063D-98CA-432D-89E2-A34ED70C801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA063D-98CA-432D-89E2-A34ED70C801A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +66,8 @@ Global
 		{9BF4E51C-8617-443B-8ACE-B91CC02EDC91} = {6B068C41-F8CC-442B-9EF0-E98B11EE9A31}
 		{776BA3B2-878D-4A04-853C-07A6D2DEFDE9} = {B5D3AD8E-A3EF-46A4-B50C-EA1E644AF168}
 		{1D2F9C87-B764-4074-96E7-9C9C7388AEED} = {68FF4823-2A64-4459-89E1-C464F38CD40A}
+		{19CA063D-98CA-432D-89E2-A34ED70C801A} = {0EB60FE3-5250-4FDA-862E-FD4652BF2EC4}
+		{79C2BDAA-5AB0-4DC9-9C13-462AAAC9BDC0} = {0EB60FE3-5250-4FDA-862E-FD4652BF2EC4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B8FFC3FD-90A2-4946-A81E-21743C4F502A}

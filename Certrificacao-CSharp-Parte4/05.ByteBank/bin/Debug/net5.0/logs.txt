@@ -1,0 +1,39 @@
+30/08/2021 09:30:27: INFO - Entrando do método Efetuar.
+30/08/2021 09:30:27: INFO - Transferência realizada com sucesso.
+30/08/2021 09:30:27: INFO - Saindo do método Efetuar.
+30/08/2021 09:30:27: INFO - Entrando do método Efetuar.
+30/08/2021 09:32:28: INFO - Entrando do método Efetuar.
+30/08/2021 09:32:28: INFO - Transferência realizada com sucesso.
+30/08/2021 09:32:28: INFO - Saindo do método Efetuar.
+30/08/2021 09:32:28: INFO - Entrando do método Efetuar.
+30/08/2021 09:37:38: INFO - Entrando do método Efetuar.
+30/08/2021 09:37:38: INFO - Transferência realizada com sucesso.
+30/08/2021 09:37:38: INFO - Saindo do método Efetuar.
+30/08/2021 09:37:38: ERRO - System.ArgumentNullException: Value cannot be null. (Parameter 'contaCredito')
+   at _05.ByteBank.TransferenciaBancaria.Efetuar(ContaCorrente contaDebito, ContaCorrente contaCredito, Decimal valor) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 94
+   at _05.ByteBank.Program.Main(String[] args) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 27
+30/08/2021 09:38:03: INFO - Entrando do método Efetuar.
+30/08/2021 09:38:03: INFO - Transferência realizada com sucesso.
+30/08/2021 09:38:03: INFO - Saindo do método Efetuar.
+30/08/2021 09:38:03: ERRO - System.ArgumentNullException: Value cannot be null. (Parameter 'contaCredito')
+   at _05.ByteBank.TransferenciaBancaria.Efetuar(ContaCorrente contaDebito, ContaCorrente contaCredito, Decimal valor) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 94
+   at _05.ByteBank.Program.Main(String[] args) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 27
+30/08/2021 09:40:03: INFO - Entrando do método Efetuar.
+30/08/2021 09:40:03: INFO - Transferência realizada com sucesso.
+30/08/2021 09:40:03: INFO - Saindo do método Efetuar.
+30/08/2021 09:40:03: ERRO - System.ArgumentNullException: Value cannot be null. (Parameter 'contaCredito')
+   at _05.ByteBank.TransferenciaBancaria.Efetuar(ContaCorrente contaDebito, ContaCorrente contaCredito, Decimal valor) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 94
+   at _05.ByteBank.Program.Main(String[] args) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 27
+30/08/2021 09:40:40: INFO - Entrando do método Efetuar.
+30/08/2021 09:40:40: INFO - Transferência realizada com sucesso.
+30/08/2021 09:40:40: INFO - Saindo do método Efetuar.
+30/08/2021 09:40:40: ERRO - System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'valor')
+   at _05.ByteBank.TransferenciaBancaria.Efetuar(ContaCorrente contaDebito, ContaCorrente contaCredito, Decimal valor) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 98
+   at _05.ByteBank.Program.Main(String[] args) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 27
+30/08/2021 09:48:19: INFO - Entrando do método Efetuar.
+30/08/2021 09:48:19: INFO - Transferência realizada com sucesso.
+30/08/2021 09:48:19: INFO - Saindo do método Efetuar.
+30/08/2021 09:48:19: ERRO - _05.ByteBank.SaldoInsuficienteException: Saldo Insuficiente.
+   at _05.ByteBank.TransferenciaBancaria.Efetuar(ContaCorrente contaDebito, ContaCorrente contaCredito, Decimal valor) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 102
+   at _05.ByteBank.Program.Main(String[] args) in C:\Users\Micro\Documents\Certificacao-CSharp\Certrificacao-CSharp-Parte4\05.ByteBank\Program.cs:line 27
+30/08/2021 13:34:30: INFO - Entrando do método Efetuar.
