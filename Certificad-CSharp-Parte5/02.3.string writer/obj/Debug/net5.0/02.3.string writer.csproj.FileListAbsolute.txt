@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\02.3.string writer.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\02.3.string writer.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\02.3.string writer.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\02.3.string writer.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\02.3.string writer.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\ref\02.3.string writer.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\bin\Debug\net5.0\02.3.string writer.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\ref\02.3.string writer.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.genruntimeconfig.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.3.string writer\obj\Debug\net5.0\02.3.string writer.csproj.AssemblyReference.cache

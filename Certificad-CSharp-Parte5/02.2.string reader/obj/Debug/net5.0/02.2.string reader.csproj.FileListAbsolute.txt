@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\02.2.string reader.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\02.2.string reader.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\02.2.string reader.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\02.2.string reader.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\02.2.string reader.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\ref\02.2.string reader.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\bin\Debug\net5.0\02.2.string reader.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\ref\02.2.string reader.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.2.string reader\obj\Debug\net5.0\02.2.string reader.genruntimeconfig.cache

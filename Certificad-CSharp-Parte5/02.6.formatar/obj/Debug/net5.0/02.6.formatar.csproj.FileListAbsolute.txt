@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\02.6.formatar.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\02.6.formatar.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\02.6.formatar.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\02.6.formatar.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\02.6.formatar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\ref\02.6.formatar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\bin\Debug\net5.0\02.6.formatar.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\ref\02.6.formatar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.6.formatar\obj\Debug\net5.0\02.6.formatar.genruntimeconfig.cache

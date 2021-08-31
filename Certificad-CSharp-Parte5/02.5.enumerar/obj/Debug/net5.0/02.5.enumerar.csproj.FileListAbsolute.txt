@@ -1,0 +1,15 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\02.5.enumerar.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\02.5.enumerar.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\02.5.enumerar.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\02.5.enumerar.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\02.5.enumerar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\ref\02.5.enumerar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\bin\Debug\net5.0\02.5.enumerar.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\ref\02.5.enumerar.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.5.enumerar\obj\Debug\net5.0\02.5.enumerar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\02.1.string builder.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\02.1.string builder.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\02.1.string builder.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\02.1.string builder.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\02.1.string builder.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\ref\02.1.string builder.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\bin\Debug\net5.0\02.1.string builder.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\ref\02.1.string builder.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificad-CSharp-Parte5\02.1.string builder\obj\Debug\net5.0\02.1.string builder.genruntimeconfig.cache
