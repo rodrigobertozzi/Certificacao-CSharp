@@ -13,3 +13,4 @@ C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\01.01\ob
 C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\01.01\obj\Debug\net5.0\ref\01.01.dll
 C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\01.01\obj\Debug\net5.0\01.01.pdb
 C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\01.01\obj\Debug\net5.0\01.01.genruntimeconfig.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\01.01\obj\Debug\net5.0\01.01.csproj.AssemblyReference.cache

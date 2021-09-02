@@ -7,8 +7,28 @@ namespace _01_01
         static void Main(string[] args)
         {
             Campainha campainha = new Campainha();
+            campainha.OnCampainhaTocou += CampainhaTocou;
+            campainha.OnCampainhaTocou += CampainhaTocou2;
+
+            Console.WriteLine("A campaninha será tocada.");
             campainha.Tocar();
+
+            campainha.OnCampainhaTocou -= CampainhaTocou;
+            Console.WriteLine("A campaninha será tocada.");
+            campainha.Tocar();
+
             Console.ReadKey();
+
+        }
+
+        static void CampainhaTocou()
+        {
+            Console.WriteLine("A campaninha tocou. (1)");
+        }
+
+        static void CampainhaTocou2()
+        {
+            Console.WriteLine("A campaninha tocou. (2)");
         }
     }
 
