@@ -1,0 +1,16 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\02.05.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\02.05.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\02.05.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\02.05.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\02.05.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\ref\02.05.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\bin\Debug\net5.0\02.05.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\ref\02.05.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.genruntimeconfig.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte7\02.05\obj\Debug\net5.0\02.05.csproj.AssemblyReference.cache
