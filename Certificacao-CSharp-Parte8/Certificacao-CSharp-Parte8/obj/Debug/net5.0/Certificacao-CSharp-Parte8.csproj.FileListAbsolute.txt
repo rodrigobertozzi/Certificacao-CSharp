@@ -1,0 +1,17 @@
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.csproj.AssemblyReference.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.AssemblyInfoInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.AssemblyInfo.cs
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Diretores.txt
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Certificacao-CSharp-Parte8.exe
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Certificacao-CSharp-Parte8.deps.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Certificacao-CSharp-Parte8.runtimeconfig.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Certificacao-CSharp-Parte8.runtimeconfig.dev.json
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Certificacao-CSharp-Parte8.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\ref\Certificacao-CSharp-Parte8.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\bin\Debug\net5.0\Certificacao-CSharp-Parte8.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\ref\Certificacao-CSharp-Parte8.dll
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.pdb
+C:\Users\Micro\Documents\Certificacao-CSharp\Certificacao-CSharp-Parte8\Certificacao-CSharp-Parte8\obj\Debug\net5.0\Certificacao-CSharp-Parte8.genruntimeconfig.cache
